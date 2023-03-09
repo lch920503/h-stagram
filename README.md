@@ -1,4 +1,16 @@
-# 소셜 네트워크 서비스 만들기
+# 프로젝트 정보
+
+- 소셜 네트워크 서비스 만들기
+
+### 사용 기술
+
+- axios를 이용해 데이터 fetching
+- redux 사용하여 전역상태관리
+- useState, useCallback, useSelector 등 다양한 hooks 사용
+- firebase의 auth, database, storage 등 이용하여 데이터 구축
+- firebase로 호스팅 진행
+- scss를 이용한 스타일링 진행
+- react-router-dom v6 사용
 
 ### 구현사항
 
@@ -9,16 +21,6 @@
 [✔] 팔로우 및 팔로잉  
 [ ] 언팔하기  
 [✔] 친구피드
-
-### 사용 기술
-
-- axios를 이용해 데이터 fetching
-- redux 사용하여 상태관리
-- useCallback, useSelector 등 다양한 hooks 사용
-- firebase의 auth, database, storage 등 이용하여 데이터 구축
-- firebase로 호스팅 진행
-- scss를 이용한 스타일링 진행
-- react-router-dom v6 사용
 
 ### 구현 코드 일부 - 서버
 
