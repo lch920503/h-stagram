@@ -201,18 +201,18 @@ export default function Join() {
 ### 구현화면
 
 - 로그인
-<p><img src="./images/login.png" ></p>
+<p><img src="images/login.png" ></p>
 - 회원가입
 닉네임 중복확인
-<p><img src="./images/join.png"></p>
+<p><img src="images/join.png"></p>
 - 메인피드
 텍스트 업로드, 이미지 업로드  
  내 피드 및 친구 피드 목록 보기  
  팔로잉 한 친구 목록 로드
-<p><img src="./images/mainFeed.png"></p>
+<p><img src="images/mainFeed.png"></p>
 - 프로필
 추천 친구 피드로 이동  
  친구 팔로우 하기  
  본인 피드 리스트  
  추천 친구 기능 (회원가입 친구 목록 로드)
-<p><img src="./images/profile.png"></p>
+<p><img src="images/profile.png"></p>
