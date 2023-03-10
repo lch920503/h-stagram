@@ -7,10 +7,11 @@
 - axios를 이용해 데이터 fetching
 - redux 사용하여 전역상태관리
 - useState, useCallback, useSelector 등 다양한 hooks 사용
-- firebase의 auth, database, storage 등 이용하여 데이터 구축
+- firebase의 auth, database, storage 등 이용하여 데이터 구축 (express 사용)
 - firebase로 호스팅 진행
 - scss를 이용한 스타일링 진행
 - react-router-dom v6 사용
+- 피드에서 이미지 업로드 시, 로딩 스피너 사용
 
 ### 구현사항
 
@@ -196,3 +197,22 @@ export default function Join() {
   );
 }
 ```
+
+### 구현화면
+
+- 로그인
+  <img src="./images/login.png" />
+- 회원가입  
+  닉네임 중복확인
+  <img src="./images/join.png" />
+- 메인피드  
+  텍스트 업로드, 이미지 업로드  
+  내 피드 및 친구 피드 목록 보기  
+  팔로잉 한 친구 목록 로드
+  <img src="./images/mainFeed.png" />
+- 프로필  
+  추천 친구 피드로 이동  
+  친구 팔로우 하기  
+  본인 피드 리스트  
+  추천 친구 기능 (회원가입 친구 목록 로드)
+  <img src="./images/profile.png" />
