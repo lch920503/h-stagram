@@ -201,18 +201,18 @@ export default function Join() {
 ### 구현화면
 
 - 로그인
-<p><img src="images/login.png" ></p>
+  ![login](https://user-images.githubusercontent.com/84822384/224245795-dad102df-0ee3-4e3f-880f-00ef14c56f27.PNG)
 - 회원가입
-닉네임 중복확인
-<p><img src="images/join.png"></p>
+  닉네임 중복확인
+  ![join](https://user-images.githubusercontent.com/84822384/224245791-72affed1-b84f-4a2a-8d95-eb9628850495.PNG)
 - 메인피드
-텍스트 업로드, 이미지 업로드  
- 내 피드 및 친구 피드 목록 보기  
- 팔로잉 한 친구 목록 로드
-<p><img src="images/mainFeed.png"></p>
+  텍스트 업로드, 이미지 업로드  
+   내 피드 및 친구 피드 목록 보기  
+   팔로잉 한 친구 목록 로드
+  ![mainFeed](https://user-images.githubusercontent.com/84822384/224245797-7cfd8702-9ed6-4512-add7-c150e5514e90.PNG)
 - 프로필
-추천 친구 피드로 이동  
- 친구 팔로우 하기  
- 본인 피드 리스트  
- 추천 친구 기능 (회원가입 친구 목록 로드)
-<p><img src="images/profile.png"></p>
+  추천 친구 피드로 이동  
+   친구 팔로우 하기  
+   본인 피드 리스트  
+   추천 친구 기능 (회원가입 친구 목록 로드)
+  ![profile](https://user-images.githubusercontent.com/84822384/224245802-6de8a72a-b3c3-4d68-9ded-20f4404bb1d9.PNG)
