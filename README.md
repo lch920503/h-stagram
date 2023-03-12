@@ -210,7 +210,7 @@ export default function Join() {
 
 - 로그인
   ![login](https://user-images.githubusercontent.com/84822384/224247070-edbe9a57-391e-4741-ac69-3bd4e2c0c504.PNG)
-- 회원가입
+- 회원가입  
   닉네임 중복확인
   ![join](https://user-images.githubusercontent.com/84822384/224247061-bfd74e88-a5cf-4312-b803-a4f7f2cafc39.PNG)
 - 메인피드
